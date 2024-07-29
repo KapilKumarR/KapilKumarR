@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm kapil</h1>
-<h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
+<h1 align="center">Hi 👋, I'm Kapil_🏴 ⚛️</h1>
+<h3 align="center">I'm a passionate FULL STACK DEVELOPER from India. I'm skilled in both .NET 🟣 and Django 🟢, and I'm all about coding. Also, I'm an Atheist⚛️. Let's chat tech anytime!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilkumarr&label=Profile%20views&color=0e75b6&style=flat" alt="kapilkumarr" /> </p>
 
