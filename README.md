@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **kapilkumarrahul5@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <!-- Add social links or content here if needed -->
 </p>
