@@ -7,10 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilkumarr" alt="kapilkumarr" /></a> </p>
 
-- 🌱 Currently enhancing my expertise in **Django, React, and .NET Framework**  
+- 🌱 Currently enhancing my expertise in **Django, React.**  
 - 👯 Open to collaborations on impactful technology projects  
-- 🤝 Looking for frontend support on my **Online Car Booking App**  
-- 📫 You can reach me at: **kapilkumarrahul5@gmail.com**
+- 📫 You can reach me at: **kapilkumarrahul5@gmail.com / kapilkumarrahul@zohomail.in / (cell no: +91 8130587559)**
 
 <h3 align="left">Languages & Technologies:</h3>
 <p align="left">
